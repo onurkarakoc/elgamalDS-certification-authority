@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5995e6ad-0e66-41cb-ac0c-ed30f521afc9" name="Default Changelist" comment="" />
+    <list default="true" id="5995e6ad-0e66-41cb-ac0c-ed30f521afc9" name="Default Changelist" comment="This version is working very well.">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElgamalDS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElgamalDS.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VW5cYOTdipiS4jpvee0hyaD8Xp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -92,11 +100,16 @@
       <workItem from="1577356110908" duration="14098000" />
       <workItem from="1577442155751" duration="17719000" />
       <workItem from="1577537853156" duration="16814000" />
+      <workItem from="1577644611239" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This version is working very well." />
+    <option name="LAST_COMMIT_MESSAGE" value="This version is working very well." />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1577558063940">
@@ -107,6 +120,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1577356099908" />
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1577644830433">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1577644830433" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1577560819501">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -139,10 +156,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1577560819502" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1577537854004">
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1577644612677">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1577537854004" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1577644612677" />
     <state x="458" y="220" key="extract.method.dialog" timestamp="1577383351694">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -19,6 +19,7 @@ public class ElgamalDS {
         setPrivateKey(privateKey);
     }
 
+
     public BigInteger generatePublicKey(){
         FastModularExponentiation fastModularExponentiation = new FastModularExponentiation();
         return fastModularExponentiation.exponentMod(g,privateKey,p);
